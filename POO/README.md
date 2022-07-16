@@ -1,11 +1,15 @@
-npm init -y
+Descrição:
+Projeto básico de POO, desenvolvido para o teste da empresa Lett.
 
-tsc --init
+```bash
+#Instalação:
 
-npm i -g ts-node
+#1. Clone o repositório.
+#2. Entre na pasta do projeto:
+  cd lett-teste/POO
+#3. Instale o projeto:
+  npm install
 
-## lib para usar o terminal
-
-npm i prompt-sync
-
-ts-node main
+# Execute o projeto
+  ts-node main
+```

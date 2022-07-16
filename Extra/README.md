@@ -1,9 +1,9 @@
 Descrição:
 Web scraper da loja Netshoes, desenvolvido para o bônus do teste da empresa Lett.
 
-Instalação:
-
 ```bash
+#Instalação:
+
 #1. Clone o repositório.
 #2. Entre na pasta do projeto:
   cd lett-teste/extra
